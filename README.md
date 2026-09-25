@@ -1,4 +1,4 @@
-# Laravel 12 名單
+# Laravel 13 名單
 
 引入 laravel 的 roster 套件來擴增檢測正在使用的套件和方法，檢測專案內正在使用哪些 Laravel 生態系統套件。
 
@@ -26,5 +26,5 @@ $ php artisan migrate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/lDSbsu1.png)
+![](https://i.imgur.com/z1faojD.png)
 > 掃描任何套件及其版本並將其加入到集合中
